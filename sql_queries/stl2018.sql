@@ -1,0 +1,1 @@
+select * from STL_Crimes_2018;
